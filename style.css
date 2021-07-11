@@ -61,4 +61,12 @@ h1 {
     color: #ff7700;
 }
 
+body{
+    background-color: lightgoldenrodyellow;
+}
 
+pre{
+    font-size: 17px;
+    color: black;
+    background-color: blanchedalmond;
+}
